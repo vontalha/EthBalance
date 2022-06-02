@@ -7,6 +7,8 @@ npm init
 
 npm i express body-parser ethers nodemon
 
+get your infura project id nad paste it at const INFURA_ID = '(your infura ID)'
+
 then run
 
 nodemon app.js
